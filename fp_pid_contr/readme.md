@@ -50,27 +50,23 @@ Any Vivado HLS release from 2014.1 to 2015.4.
 
 ## 3. DESIGN FILE HIERARCHY
 ```
-|   readme.md
+|   CONTRIBUTING.md
+|   hls_script_xapp1163_pid.tcl
 |   LICENSE.md
-|
-+---xapp1163
-|   |      
-|   +---C
-|   |		test_xapp_pid.cpp
-|   |       xapp_pid.cpp
-|   |       xapp_pid.h
-|   |           
-|   |   +---test_data
-|           	d_ref.txt
-|           	e_ref.txt
-|           	i_ref.txt
-|           	u_ref.txt
-|           	yp_ref.txt
-|   |           
-|   +---hls_pid_prj
-|           solution_double
-			solution_single
-			solution_fixed
+|   LICENSE.txt
+|   readme.md
+|   
+\---C
+    |   test_xapp_pid.cpp
+    |   xapp_pid.cpp
+    |   xapp_pid.h
+    |   
+    \---test_data
+            d_ref.txt
+            e_ref.txt
+            i_ref.txt
+            u_ref.txt
+            yp_ref.txt
 ```
 
 ## 4. INSTALLATION AND OPERATING INSTRUCTIONS 
