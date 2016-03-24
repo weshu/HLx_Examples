@@ -76,7 +76,7 @@ The procedure to build the HLS project is as follows:
 ## 5. OTHER INFORMATION
 
 For more information check here: 
-http://www.xilinx.com/support/documentation/application_notes/xapp1163.pdf 
+http://www.xilinx.com/support/documentation/application_notes/xapp1163.pdf
 
 ## 6. SUPPORT
 
