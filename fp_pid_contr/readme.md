@@ -49,7 +49,7 @@ Any Vivado HLS release from 2014.1 to 2015.4.
 
 
 ## 3. DESIGN FILE HIERARCHY
-
+```
 |   readme.md
 |   LICENSE.md
 |
@@ -71,7 +71,8 @@ Any Vivado HLS release from 2014.1 to 2015.4.
 |           solution_double
 			solution_single
 			solution_fixed
-		
+```
+
 ## 4. INSTALLATION AND OPERATING INSTRUCTIONS 
 
 The procedure to build the HLS project is as follows:
